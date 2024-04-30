@@ -1,8 +1,10 @@
-import React from 'react'
-
 const Welcome = () => {
   return (
-    <div>Welcome</div>
+    <div>
+        <h2>Seja Bem vindo!!</h2>
+        <p>Clique no botão abaixo para começar:</p>
+        <button>Iniciar</button>
+    </div>
   )
 }
 

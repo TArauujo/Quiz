@@ -3,7 +3,7 @@ const Welcome = () => {
     <div>
         <h2>Seja Bem vindo!!</h2>
         <p>Clique no botão abaixo para começar:</p>
-        <button>Iniciar</button>
+        <button>Iniciar!!</button>
     </div>
   )
 }
